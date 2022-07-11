@@ -1,0 +1,11 @@
+{
+  "checkId": "yz8stpaxbm3zm4s9k0vr",
+  "userPhone": "01867939463",
+  "protocol": "http",
+  "url": "facebook.com",
+  "method": "get",
+  "successCodes": [200, 201, 401],
+  "timeoutSeconds": 5,
+  "state": "down",
+  "lastChecked": 1657567617964
+}

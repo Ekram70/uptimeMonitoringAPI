@@ -18,7 +18,8 @@ environments.staging = {
   twilio: {
     fromPhone: '+19854647836',
     accountSid: 'ACfb46ee4da1fecf9f187d17f29ee6bc1b',
-    authToken: '1d518abe7e27d80dc8b72025e3d42807',
+    authToken: '856c4f5820f554881bbcf74b73d721ea',
+    // updata the auth token because it changes after sometimes
   },
 };
 
@@ -31,6 +32,7 @@ environments.production = {
     fromPhone: '+19854647836',
     accountSid: 'ACfb46ee4da1fecf9f187d17f29ee6bc1b',
     authToken: '1d518abe7e27d80dc8b72025e3d42807',
+    // updata the auth token because it changes after sometimes
   },
 };
 

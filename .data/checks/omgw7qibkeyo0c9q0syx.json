@@ -1,0 +1,11 @@
+{
+  "checkId": "omgw7qibkeyo0c9q0syx",
+  "userPhone": "01867939463",
+  "protocol": "http",
+  "url": "google.com",
+  "method": "get",
+  "successCodes": [200, 201, 401],
+  "timeoutSeconds": 5,
+  "state": "down",
+  "lastChecked": 1657567617801
+}
